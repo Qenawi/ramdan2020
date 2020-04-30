@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">New-Kts</string>
+    <string name="AppPrefs_MainKey">GoPlusSharedKey</string>
 </resources>

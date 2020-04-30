@@ -1,7 +1,5 @@
-package tjw.new_kts
-
+package tjw.go_plus_meeting
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**

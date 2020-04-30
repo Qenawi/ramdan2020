@@ -1,4 +1,4 @@
-package tjw.new_kts
+package tjw.go_plus_meeting
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

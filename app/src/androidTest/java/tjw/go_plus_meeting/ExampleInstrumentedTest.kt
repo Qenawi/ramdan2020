@@ -1,4 +1,4 @@
-package tjw.new_kts
+package tjw.go_plus_meeting
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
