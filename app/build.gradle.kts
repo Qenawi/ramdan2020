@@ -37,12 +37,16 @@ dependencies {
     implementation(Libraries.constraintlayout)
     implementation(Libraries.Dagger.dagger)
     implementation(Libraries.Dagger.androidSupport)
+    implementation(Libraries.Google.playServiceLocation)
+
     implementation(Libraries.Coroutines.android)
     implementation(Libraries.Coroutines.core)
     kapt(Libraries.Dagger.compiler)
     kapt(Libraries.Dagger.androidProcessor)
     implementation(Libraries.Fragment.fragment)
     implementation(Libraries.Lifecycle.extensions)
+    implementation(Libraries.Google.easyPermission)
+
     implementation(Libraries.Glide.library)
     kapt(Libraries.Glide.compiler)
     implementation(Libraries.TestLibs.junit)
@@ -50,5 +54,7 @@ dependencies {
     implementation(Libraries.Timber)
     implementation(Libraries.Retrofit.retrofit)
     implementation(Libraries.Retrofit.gsonConverter)
+    implementation ("com.google.android.material:material:1.2.0-alpha06")
+    implementation("com.github.ahmedeltaher:Azan:3.0")
 }
 

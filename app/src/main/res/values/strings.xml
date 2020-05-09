@@ -1,4 +1,15 @@
 <resources>
-    <string name="app_name">New-Kts</string>
+    <string name="app_name">Ms7rati</string>
     <string name="AppPrefs_MainKey">GoPlusSharedKey</string>
+    <string name="stay_safe">Stay Safe</string>
+    <string name="stayhome">StayHome</string>
+    <string name="al2adr">نسبه حدوث ليله القدر</string>
+    <string name="fagr">الفجر</string>
+    <string name="e4aa">العشاء</string>
+    <string name="maghrib">المفرب</string>
+    <string name="asr">العصر</string>
+    <string name="zohr">الظهر</string>
+    <string name="doha">الضحي</string>
+    <string name="ramdan">رمضان</string>
+    <string name="location_rationale">We need your location for time calculation  ;),</string>
 </resources>
